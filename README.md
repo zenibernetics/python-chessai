@@ -21,9 +21,9 @@ Zobrist hashing – Position.zobrist_hash() generates a 64‑bit signature for e
 
 Late Move Reduction (LMR) – placeholder comments for future implementation.
 
-Opening book – stub function to return predefined moves from a book file (book1.bin).
+Opening book – stub function to return predefined moves from a book file (book.bin).
 
-Graphical Interface – simple GUI built with Tkinter (or Pygame, depending on your gui.py implementation).
+Graphical Interface – simple GUI 
 
 Usage
 Run the GUI
